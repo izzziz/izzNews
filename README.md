@@ -10,4 +10,6 @@ izNews is a simply designed application that retrieves live American News articl
 
 ![]()
 
+## Concepts used to make Application.
+
 
