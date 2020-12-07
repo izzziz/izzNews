@@ -8,11 +8,11 @@ izNews is a simply designed application that retrieves live American News articl
 
 ## ScreenShot
 
-![]()
+![](izNewsss.png)
 
 ## Concepts used to make Application.
 
-- Multiple View Controllers
+- Multiple View Controllers : MVC Design Pattern 
 - Working with Applications Programmatic Integration (APIs)
 - JSON Parsing the API.
 - Using a Cache Manager to store the images sso we dont download them multiple times.
