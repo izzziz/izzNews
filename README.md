@@ -10,7 +10,7 @@ izNews is a simply designed application that retrieves live American News articl
 
 ![](izNewsss.png)
 
-## Concepts used to make Application.
+## Concepts used to make Application
 
 - Creating classes and stuctrues
 - Implement the Multiple View Controllers : MVC Design Pattern 
