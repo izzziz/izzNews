@@ -17,8 +17,13 @@ izNews is a simply designed application that retrieves live American News articl
 - The model is retrieving the JSON data and decoded it into article structs
 - Set the tableview as the Delegate and DataSource
 - Created a DetailViewController with the associated web view
-- Working with Applications Programmatic Integration (APIs)
-- JSON Parsing the API
-- Using a Cache Manager to store the images so we dont need to download the images multiple times
+- Created a custom UITableViewCell class
+- Used a Dictionary object as a cache for the image data
+- Created a segue via the Storyboard 
+- Transferred data between UIViewControllers
+- Implemented the delegate methods of a WebView
+- Adding Animations - Added an article spinner and a slight fading animation
+
+
 
 
