@@ -1,6 +1,6 @@
 # IzzNews
 
-Top business headlines in the U.S.
+IzzNews presents top business headlines in the U.S.
 
 ## Description
 
