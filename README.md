@@ -4,11 +4,11 @@ IzzNews presents top business headlines in the U.S.
 
 ## Description
 
-izzNews is a simply designed application that retrieves live American News articles straight from the newsapi. On the homepage you get a list of articles with the heading and an image that when clicked opens up another another page with the whole article.
+izzNews is a simply designed application that retrieves live American News articles straight from the newsapi. On the homepage you get a list of articles with the heading and an image that when clicked expands the article in its on view. 
 
 ## ScreenShot
 
-![](izNewsss.png)
+![](izNewss.png)
 
 ## Concepts used to make Application
 
